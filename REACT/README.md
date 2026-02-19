@@ -1,3 +1,17 @@
+### 📂 Folder Structure
+
+```
+UTILITIES/
+│
+├── REACT/
+│     ├── src/
+│          ├── utils/
+|               ├── Image_Stack/
+│               └── Image_Stack_Usage/
+```
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
